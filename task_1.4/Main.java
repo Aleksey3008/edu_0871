@@ -5,6 +5,9 @@ public class Solution {
     public static int number = 25;
 
     public static void main(String[] args) {
-        //напишите тут ваш код
+        public static void main(String[] args) {
+        int a = 5;
+
+        System.out.println(a*a);//напишите тут ваш код
     }
 }
